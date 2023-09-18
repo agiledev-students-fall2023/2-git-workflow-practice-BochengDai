@@ -14,3 +14,10 @@ To solve this issue, the author introduces a decision-making framework called "U
 The article stresses the value of understanding one's own unique goals and context rather than simply copying what successful businesses are doing before selecting a technology solution. It encourages engineers to think critically and make informed decisions based on a deep understanding of the problem at hand and the various solutions available.
 
 This article's appeal for independent, logical thought in the software engineering community intrigues me. It draws attention to a problem that is common in the sector, where decisions are frequently taken without carefully weighing demands and options. The UNPHAT framework promotes a more deliberate and logical approach to technology selection by encouraging engineers to take a step back and think carefully about the issues they are attempting to solve before leaping to solutions. It serves as a reminder that what works for large companies in a given industry with particular requirements and resources might not be the ideal option for smaller organizations with distinct needs.
+
+### Comment from Anthony Li (anthonyLi3317):
+I found the article "You Are Not Google" to be a much-needed reality check in the world of software engineering. The tendency to emulate industry giants like Google and Amazon without considering the unique needs and constraints of one's own project can lead to unnecessary complexity and costs. The UNPHAT framework introduced in the article provides a structured approach to decision-making that encourages engineers to think critically about the problems they are trying to solve. It serves as a reminder that there's no one-size-fits-all solution in technology. What works for a tech behemoth with nearly unlimited resources may not be appropriate for a smaller organization with different needs and limitations. This article is a call to action for engineers to exercise independent thought and due diligence, rather than blindly following industry trends.
+
+
+
+
